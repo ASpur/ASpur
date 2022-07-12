@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ASpur
-- 👀 I’m interested in learning programing as a hobby and a useful too.
+- 👀 I’m interested in learning programing as a hobby and a useful tool.
 - I currently work an IT position and am excited to learn all I can!
 
 <!---
